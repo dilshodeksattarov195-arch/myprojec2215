@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyeelete",
+        "uuid": 3581655,
+        "checksum": "bo0d6q"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
